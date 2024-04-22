@@ -217,3 +217,7 @@ We consider row items as subject.
 | WebText(Reddit links) | GPT-2              | PT   | English                               | /     | Data crawled from Reddit and filtered for GPT-2 pretraining.                                    |
 | MassiveText           | Gopher, Chinchilla | PT   | 99% English, 1% other(including code) |       |                                                                                                 |
 | WuDao(悟道) Corpora     | GLM                | PT   | Chinese                               | 200GB | A large scale Chinese corpus, Possible component originally open-sourced but not available now. |
+
+
+## Further
+[The Data Provenance](https://github.com/Data-Provenance-Initiative/Data-Provenance-Collection) Initiative is a volunteer project focused on increasing transparency and responsible use of AI training datasets by auditing and documenting over 1800 datasets in terms of sources, licenses, and other metadata, providing tools for developers to find datasets that meet specific criteria, and offering a detailed provenance card for each dataset subset created.
