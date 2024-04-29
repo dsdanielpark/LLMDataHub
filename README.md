@@ -1,3 +1,10 @@
+Forked for curating
+
+<br><br><br><br><br><br>
+
+
+
+
 <p align="center" width="60%">
 <img src="LOGO.png"  width="40%" height="40%">
 </p>
@@ -11,6 +18,11 @@
 <p align="center">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Zjh-819/LLMDataHub"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zjh-819/LLMDataHub">
  </p>
+
+## Others
+- [The Data Provenance](https://github.com/Data-Provenance-Initiative/Data-Provenance-Collection) Initiative is a volunteer project focused on increasing transparency and responsible use of AI training datasets by auditing and documenting over 1800 datasets in terms of sources, licenses, and other metadata, providing tools for developers to find datasets that meet specific criteria, and offering a detailed provenance card for each dataset subset created.
+- [LLM Datasets](https://github.com/mlabonne/llm-datasets)
+
 
 ## Introduction 📄
 Large language models (LLMs), such as OpenAI's GPT series, Google's Bard, and Baidu's Wenxin Yiyan, are driving profound technological changes. Recently, with the emergence of open-source large model frameworks like LlaMa and ChatGLM, training an LLM is no longer the exclusive domain of resource-rich companies. Training LLMs by small organizations or individuals has become an important interest in the open-source community, with some notable works including Alpaca, Vicuna, and Luotuo. In addition to large model frameworks, large-scale and high-quality training corpora are also essential for training large language models. Currently, relevant open-source corpora in the community are still scattered. Therefore, the goal of this repository is to continuously collect high-quality training corpora for LLMs in the open-source community.
@@ -219,5 +231,4 @@ We consider row items as subject.
 | WuDao(悟道) Corpora     | GLM                | PT   | Chinese                               | 200GB | A large scale Chinese corpus, Possible component originally open-sourced but not available now. |
 
 
-## Further
-[The Data Provenance](https://github.com/Data-Provenance-Initiative/Data-Provenance-Collection) Initiative is a volunteer project focused on increasing transparency and responsible use of AI training datasets by auditing and documenting over 1800 datasets in terms of sources, licenses, and other metadata, providing tools for developers to find datasets that meet specific criteria, and offering a detailed provenance card for each dataset subset created.
+
